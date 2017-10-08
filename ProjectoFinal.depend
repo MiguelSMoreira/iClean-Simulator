@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1432335047 source:/home/moreira/Desktop/ProjectoFinal/main.c
+	"Structs.h"
+	"SDL.h"
+	"ReadFILE.h"
+	"MovROB.h"
+	"ListMANIP.h"
+
+1431872548 source:/home/moreira/Desktop/ProjectoFinal/List_Manip.c
+
+1432315735 /home/moreira/Desktop/ProjectoFinal/Structs.h
+	<stdio.h>
+	<stdlib.h>
+
+1432326142 /home/moreira/Desktop/ProjectoFinal/SDL.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	"Structs.h"
+	"ListMANIP.h"
+	"ReadFILE.h"
+
+1432335203 source:/home/moreira/Desktop/ProjectoFinal/SDL.c
+	"SDL.h"
+
+1432334519 source:/home/moreira/Desktop/ProjectoFinal/ReadFILE.c
+	"ReadFILE.h"
+
+1432315563 /home/moreira/Desktop/ProjectoFinal/ReadFILE.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structs.h"
+	"ListMANIP.h"
+
+1432334524 source:/home/moreira/Desktop/ProjectoFinal/MovROB.c
+	"MovROB.h"
+
+1432327293 /home/moreira/Desktop/ProjectoFinal/MovROB.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Structs.h"
+	"SDL.h"
+
+1432334529 source:/home/moreira/Desktop/ProjectoFinal/ListMANIP.c
+	"ListMANIP.h"
+
+1432331013 /home/moreira/Desktop/ProjectoFinal/ListMANIP.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"MovROB.h"
+	"ReadFILE.h"
+
